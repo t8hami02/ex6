@@ -1,0 +1,33 @@
+#header {
+  background: lightblue;
+}
+
+#menu {
+  background: orange;
+  float: left;
+  width: 150px;
+  height: 100%;
+  font-size: 20px;
+}
+
+#menu,
+ul,
+li {
+  list-style: none;
+  text-decoration: none;
+}
+
+#content {
+  background: white;
+  margin-left: 160px;
+}
+
+#footer {
+  background: lightgray;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
